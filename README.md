@@ -36,9 +36,10 @@ Kaggle Ranking Top 10
 
 ---
 
-## Award
+## Images
 
 ![Award](docs/images/award_certificate.png)
+![loss](docs/images/loss.png)
 
 ## Project Structure
 
