@@ -14,6 +14,7 @@ Animals Dataset
 
 20 Classes
 
+![Classes](docs/images/classes.png)
 ---
 
 ## Model
