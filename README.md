@@ -24,6 +24,7 @@ The main objectives are:
 
 ## Method
 
+'''text
 Dataset
 
     ↓
@@ -44,7 +45,7 @@ OVA Loss
 
     ↓
 
-Prediction
+Prediction'''
 
 ## Dataset
 
