@@ -43,7 +43,7 @@ Mixup
 OVA Loss
 
     ↓
-    
+
 Prediction
 
 ## Dataset
@@ -53,7 +53,7 @@ The project uses a multi-class image dataset provided for the Deep Learning cour
 Dataset Split
 
 Training:
-6500 images
+8500 images
 
 Validation:
 500 images
@@ -69,7 +69,7 @@ Number of Classes:
 ---
 
 
-## Results
+## Results(test set)
 
 | Metric | Score |
 |---------|------:|
@@ -82,14 +82,6 @@ Number of Classes:
 ![Award](docs/images/award_certificate.png)
 ![loss](docs/images/loss.png)
 
-## Project Structure
-
-image-classification/
-
-├── README.md
-├── notebooks/
-├── docs/
----
 
 ## How to Run
 
