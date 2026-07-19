@@ -24,28 +24,24 @@ The main objectives are:
 
 ## Method
 
-'''text
+```text
 Dataset
-
-    ↓
-
+      │
+      ▼
 Preprocessing
-
-    ↓
-
+      │
+      ▼
 Swin Transformer V2
-
-    ↓
-
+      │
+      ▼
 Mixup
-
-    ↓
-
+      │
+      ▼
 OVA Loss
-
-    ↓
-
-Prediction'''
+      │
+      ▼
+Prediction
+```
 
 ## Dataset
 
