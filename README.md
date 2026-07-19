@@ -80,6 +80,10 @@ Number of Classes:
 ![loss](docs/images/loss.png)
 
 
-## How to Run
+## Author
 
-upload to google colab, and press run all!
+**Yuan Zou**
+
+Master of Artificial Intelligence
+
+Monash University
