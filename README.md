@@ -25,15 +25,25 @@ The main objectives are:
 ## Method
 
 Dataset
+
     ↓
+
 Preprocessing
+
     ↓
+
 Swin Transformer V2
+
     ↓
+
 Mixup
+
     ↓
+
 OVA Loss
+
     ↓
+    
 Prediction
 
 ## Dataset
